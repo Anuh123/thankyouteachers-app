@@ -113,5 +113,41 @@ export const teachers = [
     "- Huuurrhhuuunnn"
     "- Crush2"
     "- Түргэн шуурхай мэдээлэл хүргэж, тусалж дэмждэг байсанд баярлалаа"`
-  }
+  },
+  {
+  slug: "uugandorj",
+  name: "Уугандорж",
+  filename: "uugandorj.cs",
+  key: "dev009",
+  code: `public class ProgrammingBasics { string teacher = "Uugandorj"; }`,
+  quote: `"He was the compiler of our logic."
+  "- Хичээл болгондоо маш ухаалаг, логиктой заадаг байсанд баярлалаа"
+  "- Програмчлалын үндсийг маш цэгцтэй ойлгуулж өгсөн таньд баярлалаа"
+  "- Маш мэдрэмжтэй, мундаг багш шүү"`
+},
+{
+  slug: "undarmaa",
+  name: "Ундармаа",
+  filename: "undarmaa.fig",
+  key: "dev010",
+  code: `const UXInstructor = { name: "Undarmaa", specialty: "UI/UX", vibe: "creative & warm" };`,
+  quote: `"She designed not just interfaces — but inspiration."
+  "- Хичээл бүр дээрээ урам зориг өгдөг эелдэг багш"
+  "- UI/UX-ийн гоо зүй, хэрэглэгчийн сэтгэлзүйг ойлгуулж өгсөнд баярлалаа"
+  "- Үнэхээр загварлаг, сэтгэл шингээж заадаг шүү багш аа"
+  "- Та ёстой хөөрхөн"`
+},
+{
+  slug: "tumurchudur",
+  name: "Төмөрчөдөр",
+  filename: "tumurchudur.cpp",
+  key: "dev011",
+  code: `#include <iostream>
+using namespace std;
+int main() { count << "Thanks to Tumurchudur for all the algorithms!"; return 0; }`,
+  quote: `"He sorted our chaos into clarity."
+  "- Алгоритм бол аймар шүү, гэхдээ та ойлгомжтой заадаг байсанд баярлалаа"
+  "- Бидэнд логик сэтгэлгээг суулгаж өгсөн баярлалаа"
+  "- Эхэндээ аймар хэцүү байсан ч сүүлдээ амархан болчихсон хха"`}
 ];
+
